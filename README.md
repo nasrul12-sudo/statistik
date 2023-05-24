@@ -1,0 +1,2 @@
+# statistik
+run outpu.py
